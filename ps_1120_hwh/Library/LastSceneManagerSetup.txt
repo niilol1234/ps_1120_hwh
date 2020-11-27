@@ -1,5 +1,5 @@
 sceneSetups:
-- path: "Assets/\u5834\u666F/ps_1120_hwh.unity"
+- path: "Assets/\u5834\u666F/ps_1127_hwh.unity"
   isLoaded: 1
   isActive: 1
   isSubScene: 0
