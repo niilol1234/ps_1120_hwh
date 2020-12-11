@@ -10441,13 +10441,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: -0.15343249, y: 0.81711954, z: -0.29265413, w: -0.472364}
-  m_LocalPosition: {x: 4.1, y: 4, z: 4.82}
+  m_LocalRotation: {x: -0.1803479, y: 0.8083767, z: -0.29591873, w: -0.4758507}
+  m_LocalPosition: {x: 4.01, y: 3.83, z: 4.72}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 38.552002, y: 240.72299, z: 1.886}
+  m_LocalEulerAnglesHint: {x: 40.547, y: 240.689, z: -0.75000006}
 --- !u!1 &1069463045
 GameObject:
   m_ObjectHideFlags: 0
@@ -34890,12 +34890,12 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 50
-    m_FontStyle: 1
+    m_Font: {fileID: 12800000, guid: 3e949befae6705c4fbd08ec18e465f4d, type: 3}
+    m_FontSize: 55
+    m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 5
-    m_MaxSize: 50
+    m_MaxSize: 55
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
